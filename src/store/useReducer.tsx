@@ -1,4 +1,6 @@
 import {useReducer} from 'react';
 
 
-interface 
+interface contextType {
+    
+}
